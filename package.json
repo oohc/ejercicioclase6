@@ -1,0 +1,23 @@
+{
+  "name": "ejercicioclase6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocka /test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oohc/ejercicioclase6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oohc/ejercicioclase6/issues"
+  },
+  "homepage": "https://github.com/oohc/ejercicioclase6#readme"
+}
